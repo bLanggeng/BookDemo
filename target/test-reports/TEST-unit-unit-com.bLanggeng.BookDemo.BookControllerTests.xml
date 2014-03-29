@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="bawono-Thinkpad" name="com.bLanggeng.BookDemo.BookControllerTests" tests="1" time="2.044" timestamp="2014-03-29T12:09:50">
+  <properties />
+  <testcase classname="com.bLanggeng.BookDemo.BookControllerTests" name="testSomething" time="1.761">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.bLanggeng.BookDemo.BookControllerTests.testSomething(BookControllerTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>

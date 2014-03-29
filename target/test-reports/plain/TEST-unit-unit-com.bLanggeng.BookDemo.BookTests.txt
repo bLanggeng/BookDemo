@@ -1,0 +1,15 @@
+Testsuite: com.bLanggeng.BookDemo.BookTests
+Tests run: 1, Failures: 1, Errors: 0, Time elapsed: 0,351 sec
+------------- Standard Output ---------------
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testSomething took 0,347 sec
+	FAILED
+junit.framework.AssertionFailedError: Implement me
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.bLanggeng.BookDemo.BookTests.testSomething(BookTests.groovy:15)
+

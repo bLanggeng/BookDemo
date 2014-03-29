@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="bawono-Thinkpad" id="0" name="BookControllerTests" package="com.bLanggeng.BookDemo" tests="1" time="2.044" timestamp="2014-03-29T12:09:50">
+      <properties />
+
+      <testcase classname="com.bLanggeng.BookDemo.BookControllerTests" name="testSomething" time="1.761">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.bLanggeng.BookDemo.BookControllerTests.testSomething(BookControllerTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="bawono-Thinkpad" id="1" name="BookTests" package="com.bLanggeng.BookDemo" tests="1" time="0.351" timestamp="2014-03-29T12:09:52">
+      <properties />
+
+      <testcase classname="com.bLanggeng.BookDemo.BookTests" name="testSomething" time="0.347">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.bLanggeng.BookDemo.BookTests.testSomething(BookTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
